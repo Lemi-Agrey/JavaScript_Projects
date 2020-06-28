@@ -1,2 +1,2 @@
 # JavaScript_Projects
-This is where most of my javascript projects are found
+This is a restuarant food and beverage ordering system. The user look through the list of menu items and select the one that he or she is interested in and add to the cart. a user can reduce the number of ordered items from the cart, can remove an item, can interest the items or clear the cart. After the user has added all the required items to the card, the user will be required to click the order now button where the user is prompted either to sign up if not registered or just login to confirm the order.
