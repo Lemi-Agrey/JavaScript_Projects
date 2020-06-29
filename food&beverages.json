@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Chilli chicken",
+        "price": 12000,
+        "image": { "fields": { "file": { "url": "./img2/fried-chicken.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Chicken",
+        "price": 15000,
+        "image": { "fields": { "file": { "url": "./img2/Pilau-rice.jpg"} } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Fried Plantain",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./img2/plantain.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "French Beans and Carrots",
+        "price": 5000,
+        "image": { "fields": { "file": { "url": "./img2/carrot.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Steamed Cabbage",
+        "price": 4000,
+        "image": { "fields": { "file": { "url": "./img2/cabbage.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Cucumber",
+        "price": 2000,
+        "image": { "fields": { "file": { "url": "./img2/cucumber.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Tomatoes Wedges",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./img2/tomato.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Burger",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./img2/burger.png" } } }
+      }
+    },
+      {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Plain Cake",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./img2/cake2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Mozollera Pizza",
+        "price": 35000,
+        "image": { "fields": { "file": { "url": "./img2/pizza.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Soda",
+        "price": 15000,
+        "image": { "fields": { "file": { "url": "./img2/soda.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Coffee",
+        "price": 10000,
+        "image": { "fields": { "file": { "url": "./img2/coffee1.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Iced Tea",
+        "price": 5000,
+        "image": { "fields": { "file": { "url": "./img2/iced1.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "Fresh Juice",
+        "price": 4000,
+        "image": { "fields": { "file": { "url": "./img2/juice11.jpg" } } }
+      }
+    },
+      {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Water",
+        "price": 3000,
+        "image": { "fields": { "file": { "url": "./img2/water-bottle.jpg" } } }
+      }
+    }
+      
+  ]
+}
